@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "symulator_pijaka/1.0.0": {
+        "runtime": {
+          "symulator_pijaka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "symulator_pijaka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

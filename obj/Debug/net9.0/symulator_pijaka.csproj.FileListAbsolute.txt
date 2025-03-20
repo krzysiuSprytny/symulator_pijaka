@@ -1,0 +1,14 @@
+C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\bin\Debug\net9.0\symulator_pijaka.exe
+C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\bin\Debug\net9.0\symulator_pijaka.deps.json
+C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\bin\Debug\net9.0\symulator_pijaka.runtimeconfig.json
+C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\bin\Debug\net9.0\symulator_pijaka.dll
+C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\bin\Debug\net9.0\symulator_pijaka.pdb
+C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\obj\Debug\net9.0\symulator_pijaka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\obj\Debug\net9.0\symulator_pijaka.AssemblyInfoInputs.cache
+C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\obj\Debug\net9.0\symulator_pijaka.AssemblyInfo.cs
+C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\obj\Debug\net9.0\symulator_pijaka.csproj.CoreCompileInputs.cache
+C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\obj\Debug\net9.0\symulator_pijaka.dll
+C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\obj\Debug\net9.0\refint\symulator_pijaka.dll
+C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\obj\Debug\net9.0\symulator_pijaka.pdb
+C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\obj\Debug\net9.0\symulator_pijaka.genruntimeconfig.cache
+C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\obj\Debug\net9.0\ref\symulator_pijaka.dll
