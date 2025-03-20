@@ -7,6 +7,7 @@ class Program{
         Console.Write("Podaj liczbe prob do zasymulowania: ");
         int LiczbaProb = int.Parse(Console.ReadLine());
         Random random = new Random();
+        int[] PozycjeKońcowe = new int[LiczbaKrokow];
         for(int i = 0; i < LiczbaProb; i++){
             int Pozycja = 0;
             int[] Kroki = new int[LiczbaKrokow];
@@ -15,7 +16,10 @@ class Program{
                 Pozycja += krok;
                 Kroki[j] = Pozycja;
             }
+            PozycjeKońcowe[i] = Pozycja;
             Console.WriteLine($"Proba {i + 1}: {string.Join(", ", Kroki)}");
         }
+        Console.WriteLine("\nPozycje koncowe po kazdej probie: ");
+        Console.WriteLine(string.Join(", ", PozycjeKońcowe));
     }
 }

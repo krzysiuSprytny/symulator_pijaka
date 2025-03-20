@@ -12,3 +12,4 @@ C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\obj\Debug
 C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\obj\Debug\net9.0\symulator_pijaka.pdb
 C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\obj\Debug\net9.0\symulator_pijaka.genruntimeconfig.cache
 C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\obj\Debug\net9.0\ref\symulator_pijaka.dll
+C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\obj\Debug\net9.0\symulator_pijaka.sourcelink.json

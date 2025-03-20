@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("symulator_pijaka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b8e6cfcf79dbc0d25d52c4d3b112471fbce4940")]
 [assembly: System.Reflection.AssemblyProductAttribute("symulator_pijaka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("symulator_pijaka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
