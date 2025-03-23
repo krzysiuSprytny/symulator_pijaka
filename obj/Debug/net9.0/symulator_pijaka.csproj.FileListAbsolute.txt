@@ -13,3 +13,18 @@ C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\obj\Debug
 C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\obj\Debug\net9.0\symulator_pijaka.genruntimeconfig.cache
 C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\obj\Debug\net9.0\ref\symulator_pijaka.dll
 C:\Users\krzysztof.bonkowski\Desktop\symulator pijaka\symulator_pijaka\obj\Debug\net9.0\symulator_pijaka.sourcelink.json
+C:\Users\majst\OneDrive\Desktop\govno\programiing\zadanie_pijak\bin\Debug\net9.0\symulator_pijaka.exe
+C:\Users\majst\OneDrive\Desktop\govno\programiing\zadanie_pijak\bin\Debug\net9.0\symulator_pijaka.deps.json
+C:\Users\majst\OneDrive\Desktop\govno\programiing\zadanie_pijak\bin\Debug\net9.0\symulator_pijaka.runtimeconfig.json
+C:\Users\majst\OneDrive\Desktop\govno\programiing\zadanie_pijak\bin\Debug\net9.0\symulator_pijaka.dll
+C:\Users\majst\OneDrive\Desktop\govno\programiing\zadanie_pijak\bin\Debug\net9.0\symulator_pijaka.pdb
+C:\Users\majst\OneDrive\Desktop\govno\programiing\zadanie_pijak\obj\Debug\net9.0\symulator_pijaka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majst\OneDrive\Desktop\govno\programiing\zadanie_pijak\obj\Debug\net9.0\symulator_pijaka.AssemblyInfoInputs.cache
+C:\Users\majst\OneDrive\Desktop\govno\programiing\zadanie_pijak\obj\Debug\net9.0\symulator_pijaka.AssemblyInfo.cs
+C:\Users\majst\OneDrive\Desktop\govno\programiing\zadanie_pijak\obj\Debug\net9.0\symulator_pijaka.csproj.CoreCompileInputs.cache
+C:\Users\majst\OneDrive\Desktop\govno\programiing\zadanie_pijak\obj\Debug\net9.0\symulator_pijaka.sourcelink.json
+C:\Users\majst\OneDrive\Desktop\govno\programiing\zadanie_pijak\obj\Debug\net9.0\symulator_pijaka.dll
+C:\Users\majst\OneDrive\Desktop\govno\programiing\zadanie_pijak\obj\Debug\net9.0\refint\symulator_pijaka.dll
+C:\Users\majst\OneDrive\Desktop\govno\programiing\zadanie_pijak\obj\Debug\net9.0\symulator_pijaka.pdb
+C:\Users\majst\OneDrive\Desktop\govno\programiing\zadanie_pijak\obj\Debug\net9.0\symulator_pijaka.genruntimeconfig.cache
+C:\Users\majst\OneDrive\Desktop\govno\programiing\zadanie_pijak\obj\Debug\net9.0\ref\symulator_pijaka.dll
